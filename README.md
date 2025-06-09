@@ -1,1 +1,1 @@
-# micro_IT_Weather-website
+# Micro_IT_Weather_Website
